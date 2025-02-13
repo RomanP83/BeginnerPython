@@ -8,5 +8,5 @@ Um dieses Script zu verwenden, stellen Sie sicher, dass Python auf Ihrem Compute
 
 ## Verwendung
 
-Führen Sie das Script mit Python aus:
+Führen Sie das Script mit Python aus!
 
